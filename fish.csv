@@ -1,0 +1,3 @@
+Name,Min weight,Max weight,Price per KG,Rarity(40 max),Image
+"Cod",2,7,10,6,"_cod.png"
+"Mackerel",1,3,8,0,"_mackerel.png"
