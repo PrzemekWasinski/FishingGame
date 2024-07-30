@@ -1,0 +1,6 @@
+Name,Durability,Price,Order,Luck(Chance to hook a fish)
+"Wooden rod",50,100,1,10
+"Plastic rod",100,250,2,25
+"Metal rod",250,500,3,40
+"Premium rod",325,750,4,50
+"Golden rod",500,1000,5,75
