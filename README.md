@@ -13,6 +13,6 @@ When you hook onto a fish a circle will show up on the water, the circle radius 
 # Adding your own fish and fishing rods
 You can also add new fish and new fishing rods into the game by simply adding a new line in either `fish.csv` or `rods.csv` while following the parameters at the top of the file. Both `.csv` files can be found in the `databases` directory.
 
-![fish_screenshot](https://github.com/user-attachments/assets/d9451dd9-dadb-49c3-9d8c-5f3a25373fb0)   ![rods_screenshot](https://github.com/user-attachments/assets/c1e78b9d-b529-4d28-b1d4-8ea39f0998b3)
+![_fish](https://github.com/user-attachments/assets/e892c464-9d9b-400a-9e4f-edb89b943db5)   ![_rods](https://github.com/user-attachments/assets/b4763688-0105-4a08-96fa-09944e3e88b2)
 
 When adding a new fish inside `fish.csv` it will also need a 30x15 `.png` image inside `/textures/fish_images`, if you do not want to add an image just type in `"_blank.png"` in the image parameter.
