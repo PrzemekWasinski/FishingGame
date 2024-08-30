@@ -215,8 +215,8 @@ def catch_fish(current_rod, inventory, fish_list, window, balance):
                                 moving_sprites.draw(window)
                                 pygame.draw.circle(window, (255, 255, 255), (circle_x, circle_y), radius, 2)
                                 refresh_window(window, balance, current_rod, circle_x, circle_y, radius)
-                                moving_sprites.update(0.025)
-                                time.sleep(0.025)
+                                moving_sprites.update(0.015)
+                                time.sleep(0.015)
                             else:
                                 fishing_passed = False
                                 break
